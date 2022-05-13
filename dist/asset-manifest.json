@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ffa4a7.css",
+    "main.js": "/static/js/main.7b29fb90.js",
+    "static/js/787.5ecd7290.chunk.js": "/static/js/787.5ecd7290.chunk.js",
+    "static/media/comment.png": "/static/media/comment.b89c5719f8ce1c361946.png",
+    "static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2": "/static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.b2ee717fe8acb65ab08e.woff2",
+    "static/media/email (1).png": "/static/media/email (1).4f6879d07ff8e5ebf0c7.png",
+    "static/media/3d-flame-black-wallet-standing 2.png": "/static/media/3d-flame-black-wallet-standing 2.a5e5a6f5ed5567e34a1c.png",
+    "static/media/google-drive.png": "/static/media/google-drive.dc5af3573a26c699ae73.png",
+    "index.html": "/index.html",
+    "main.e1ffa4a7.css.map": "/static/css/main.e1ffa4a7.css.map",
+    "main.7b29fb90.js.map": "/static/js/main.7b29fb90.js.map",
+    "787.5ecd7290.chunk.js.map": "/static/js/787.5ecd7290.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ffa4a7.css",
+    "static/js/main.7b29fb90.js"
+  ]
+}
